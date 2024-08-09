@@ -19,6 +19,8 @@
  * @package WordPress
  */
 
+ define('WP_SITEURL', 'https://localhost/mota');
+ define('WP_HOME', 'https://localhost/mota');
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
 define( 'DB_NAME', 'mota' );
